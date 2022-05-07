@@ -1,11 +1,11 @@
-liens : [[Christophe Durand]]
+---
+tags : 1on1/christophe_durand
+---
 
 # Actions
 
 
 # Notes
-
-## Réunion du 05.05.2022
 
 #### Offres
 Offres Certif Marine E300V2 et MBC

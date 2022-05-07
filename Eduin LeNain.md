@@ -8,5 +8,5 @@ TODO
 
 ## 1à1
 
-- [[Eduin LeNain - 1à1]]
+- #1on1/eduin_lenain 
 - 

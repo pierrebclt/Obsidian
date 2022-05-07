@@ -1,4 +1,6 @@
-
+---
+tags : meeting/jci/management_meeting
+---
 
 # historique
 

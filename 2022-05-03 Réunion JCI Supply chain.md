@@ -1,4 +1,6 @@
-
+---
+tags : meeting/jci/supply_chain
+---
 
 **Shortage of Nomex for M2 stator :**
 I said JCI will have 2 weeks shortage for week 19 & 20.

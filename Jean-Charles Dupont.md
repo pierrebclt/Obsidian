@@ -8,7 +8,7 @@ En ce qui concerne Jean-Charles Dupont
 #### A demander
 
 ## 1à1
-[[Jean-Charles Dupont - 1à1]]
+- #1on1/jean-charles_dupont 
 
 ## Reçu
 Liens :

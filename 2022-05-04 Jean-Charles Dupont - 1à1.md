@@ -1,7 +1,7 @@
-TODO
+---
+tags : 1on1/jean-charles_dupont
 
 ---
-## Réunion 04 mai 2022
 
 [[Tamturbo]] :
 - [ ] Prix à discuter pour le mgt meeting prochainement #prochain_1à1 

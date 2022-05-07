@@ -1,8 +1,8 @@
-backlink : [[Eduin LeNain]]
+---
+tags : 1on1/eduin_lenain
+---
 
 # Notes
-
-## Réunion du 05.05.2022
 
 #### MBx
 - Passage de J3 lundi
