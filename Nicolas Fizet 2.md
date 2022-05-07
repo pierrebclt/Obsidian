@@ -1,3 +1,0 @@
-TODO
-
-[[Dossier Nicolas Fizet]]
