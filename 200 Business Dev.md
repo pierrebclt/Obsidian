@@ -14,7 +14,7 @@ Business intelligence :
 - [[219 Fairs]]
 	- [[219 Gastech]]
 - [[220 Business intelligence]]
-- [[220 Fluid]]
+- [[Fluid]]
 - [[221 Magasines]]
 	- [[221 Jarn]]
 - [[222 Images]]

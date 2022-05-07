@@ -1,5 +1,12 @@
 En ce qui concerne Jean-Charles Dupont
 
+## Actions
+
+#### A faire
+- [ ] [[Internationnal symposium Magnetic bearings]] : est-ce intéressant de contacter les clients blowers (mon @ du 06.05) ?
+
+#### A demander
+
 ## 1à1
 [[Jean-Charles Dupont - 1à1]]
 

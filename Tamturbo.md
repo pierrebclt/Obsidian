@@ -1,1 +1,9 @@
 - 15 avr : [[Jean-Charles Dupont]] envoie le  [Scenario ventes TT](file:///C%3A%5CUsers%5CBOUCULAT%5COneDrive%20-%20SKF%5CDocuments%5C2022%5CRecu%5CJean-Charles%20Dupont%5CScenario%20ventes%20TT.pdf) - [[Tamturbo]] [[Hydrogen]]
+
+# Actions
+
+# Documents
+
+
+# Reçu
+- 02.05.2022 : [[Ramdane Lateb]] envoie une présentation de [[Tamturbo]] pour [[Thomas Frost]] : [[TAMTURBO_PRESENTATION_5.pptx]]

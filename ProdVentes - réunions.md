@@ -1,0 +1,42 @@
+tags : #prodventes
+backlinks :  [[Internal Meetings]]
+
+# Actions
+
+## Actions 
+
+## Sujets à adresser
+
+# Notes
+---
+## 02 Mai 2022
+Backlink : [[2022-05-02]]
+
+**A demander :**
+- [x] 
+
+Lecture du fichier *Expedition Mai* de Thomas
+
+**Stators M2 :**
+- 9 en stock + 7 à fabriquer avant arrêt de 3 semaines. Puis on repartira à 18/semaine
+
+**Modules M2:**
+Reste 32 en stock
+
+- [x] Répartition des cartes 4220AF à confirmer #yanilu => mon email à Thomas ou je lui demande les qtés pour décider
+- [x] Réflexion perso : Voir si on veut uniquement une vue des quantités mises à dispo par semaine. ==Test== #equipe => ma demande à Thomas du 02.05
+
+**Coffrets Hanbell :**
+On a de quoi faire 8 HB, puis *arrêt jusqu'à début juin*
+
+- [x] Priorisation des coffrets blowers à faire #equipe => mon email à Thomas ou je lui demande les qtés pour décider
+
+
+---
+## 29 Avril 2022
+Voici mes notes
+
+## 13 Avril 2022
+Encore d'autres notes
+
+

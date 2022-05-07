@@ -1,6 +1,8 @@
 Backlinks : [[010 Work]]
 
-Liens :
+Commercial :
 - [[Contracts]]
 - [[Pricegrids]]
-- 
+
+Logistic :
+- [[Leadtime agreements]]

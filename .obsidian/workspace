@@ -4,16 +4,37 @@
     "type": "split",
     "children": [
       {
-        "id": "5f15e9446396fbae",
+        "id": "4a454b849acdb04b",
         "type": "leaf",
+        "dimension": 80.64516129032258,
         "state": {
           "type": "markdown",
           "state": {
-            "file": "Ebara.md",
+            "file": "Obsidian.md",
             "mode": "source",
             "source": false
           }
-        }
+        },
+        "group": "ffeaeb7a2f6d7501"
+      },
+      {
+        "id": "621f42448ff5bd44",
+        "type": "leaf",
+        "dimension": 19.35483870967742,
+        "state": {
+          "type": "backlink",
+          "state": {
+            "file": "Obsidian.md",
+            "collapseAll": false,
+            "extraContext": false,
+            "sortOrder": "alphabetical",
+            "showSearch": true,
+            "searchQuery": "file:réun",
+            "backlinkCollapsed": false,
+            "unlinkedCollapsed": true
+          }
+        },
+        "group": "ffeaeb7a2f6d7501"
       }
     ],
     "direction": "vertical"
@@ -40,36 +61,57 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "file:Oppo",
+                "query": "file:/^Air",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
-                "extraContext": false,
+                "extraContext": true,
                 "sortOrder": "alphabetical"
               }
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 300,
+    "collapsed": true
   },
   "right": {
     "id": "94e99239e0bf8d21",
     "type": "split",
     "children": [
       {
-        "id": "df1bcee7ffc0654b",
+        "id": "34490533b7f91ca5",
         "type": "tabs",
         "children": [
           {
-            "id": "f18f00118778b533",
+            "id": "e03cafa033a8ad21",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": false
+              }
+            }
+          },
+          {
+            "id": "da05f61eacd2795f",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "c24df6b5bdbde099",
             "type": "leaf",
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Ebara.md",
+                "file": "Obsidian.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -84,19 +126,20 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 234,
+    "collapsed": true
   },
-  "active": "5f15e9446396fbae",
+  "active": "4a454b849acdb04b",
   "lastOpenFiles": [
-    "Ebara.md",
-    "302 Prospects.md",
-    "120 Internal Meetings.md",
-    "S2M.md",
-    "100 General.md",
-    "010 Work.md",
-    "202 Opportunities.md",
-    "200 Business Dev.md",
-    "DYT.md",
-    "Dunham Bush.md"
+    "Obsidian.md",
+    "000 HOME.md",
+    "daily/2022-05-06.md",
+    "RFQ - réunions.md",
+    "Airproducts.md",
+    "2022-05-06 Réunion interne sur Airproduct.md",
+    "NA opportunities - réunions.md",
+    "Trane.md",
+    "2022-05-06 Réunion interne sur technical review Trane & JCI to come.md",
+    "2022-05-05 Discussion avec Alexandre Tzevtkov sur Askar, Dmitri, Vladimir.md"
   ]
 }

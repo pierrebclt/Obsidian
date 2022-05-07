@@ -15,6 +15,7 @@ Backlink : [[010 Work]]
 
 - Lost prospects in 2021 :
 	- [[Climeon]]
+	- [[SpaceX]]
 
 - Not used in 2022 :
 	- [[Babcock]]
