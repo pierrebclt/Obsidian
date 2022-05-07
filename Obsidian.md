@@ -117,6 +117,44 @@ https://github.com/blacksmithgu/obsidian-dataview/issues/177
 	- https://www.thoughtasylum.com/2021/07/03/i-do-not-use-zettelkasten/
 	- https://www.thoughtasylum.com/2021/12/17/the-ubiquitous-linking-manifesto/
 	- https://linkingmanifesto.org/motivation/
-	- 
+
+Recherche de sujets intéressants sur Obsidian 
+
+*Templates :*
+https://filipedonadio.com/6-useful-templates-for-obsidian/
+
+*Tag pane plugin* to filter search
+https://jackiegeek.gitee.io/obsidian-docs/fr/How%20to/Work%20with%20Tags/
+
+*Quelques plugin :*
+- Calendar
+- Dataview
+- templates
+- Kanban
+- Task
+- 
+
+
+*Meeting note in Daily Note*
+Every morning when I create the Daily Note, I put all of today’s meetings in the section Meetings, with a dedicated link ([[2022-02-18 — Meeting about Project y]]) to a note about that meeting. Meetings for tomorrow (or even later) go into the FutureMeetings subheading, with links ([[2022-03-01 — Meeting on Project g]]), as well.
+
+*Creer des master document en utilisant ! Devant le lien:*
+Voir explication sur le site ci-dessous
+https://jamierubin.net/2022/03/15/practically-paperless-with-obsidian-episode-22-daily-notes-revisited-the-best-of-both-worlds/
+
+Test :
+![[un]]
+
+![[Deux]]
+
+*Un certain nb de conseils intéressants*
+- Nommer les fichiers avec zettelkasten prefixer
+	https://jamierubin.net/2021/11/09/practically-paperless-with-obsidian-episode-6-tips-for-naming-notes/
+- scanner les documents une fois par semaine 
+	https://jamierubin.net/2021/11/02/practically-paperless-with-obsidian-episode-5-scanning-documents-into-obsidian/
+- how to organise notes
+	https://jamierubin.net/2022/02/15/practically-paperless-with-obsidian-episode-18-how-i-organize-my-notes/
+- Tous les liens 
+	https://jamierubin.net/blog-series/practically-paperless-with-obsidian/
 
 
