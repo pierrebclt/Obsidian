@@ -2,7 +2,7 @@
 	- [[010 Work]]
 	- [[020 Perso]]
 	- [[030 Administratif]]
-	- [[040 Connaissances]]
+	- [[040 Knowledge]]
 	- [[TODO]]
 
 - Quelques informations relative au fonctionnement :

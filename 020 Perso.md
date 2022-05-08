@@ -1,8 +1,50 @@
-Du contenu
+## 100 Relations
 
 Famille :
+-[[Pauline]]
 - [[Pierrick]]
+- [[Jade]]
+- Reste de la famille
+	- TBD
 
-Loisirs :
-- [[Vacances]]
+Associations :
+- [[Comité de jumelage]]
+
+## 200 Loisirs
+- 230 [[Vacances]]
+- 240 [[Sports]]
+- 260 [[Cadeaux]]
+- 270 [[Restaurants]]
+
+## 300 Projets
+
+- 301 [[Maritech]]
+
+Projets perso :
+- 314 [[Application pour faire de la chaine critique]]
+- 315 [[Application OneNote]]
+- 321 [[Maths pour les enfants]]
+- 352 [[Automatisation de processus]]
+- [[Enigmes]]
+- [[Bourse]]
+- [[Immobilier]]
 - 
+
+Idées business :
+- [[Bkngo]]
+- [[Liste idées business]]
+- [[Reprise d'entreprises en difficulté]]
+
+
+## 500 Maison
+
+- [[Courses]]
+- [[Bricolage]]
+- [[Améliorations maison]]
+- [[Isolation maison]]
+- [[Jardinage]]
+- [[Cuisiner]]
+- [[Modes d'emploi]]
+- [[Cartons rangement]]
+- 
+
