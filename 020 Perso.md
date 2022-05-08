@@ -46,5 +46,24 @@ Idées business :
 - [[Cuisiner]]
 - [[Modes d'emploi]]
 - [[Cartons rangement]]
-- 
 
+
+### 700 Formation
+
+- [[Idées formations]]
+- [[Thermodynamique]]
+- [[Electronique]]
+
+### 800 Programmation
+- [[Flask]]
+- [[Git]]
+- [[Jupyterlab]]
+- [[Python]]
+- [[Virtualenv]]
+
+- [[Compression pdf]]
+
+### 900 Books
+- [[Les bases de la thermodynamique]]
+- [[Reprendre une entreprise]]
+- 

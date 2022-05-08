@@ -18,5 +18,5 @@ Liens :
 - [[601 Collegues S2M]]
 - [[602 Collegues SKF]]
 - [[700 Other]]
-- [[800 Perso]]
+- [[800 Perso at work]]
 - 
