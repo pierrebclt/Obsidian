@@ -1,5 +1,5 @@
 
-Backlink : [[010 Work]]
+Backlink : [[Work MOC]]
 
 ## List of prospects
 
@@ -32,5 +32,5 @@ Backlink : [[010 Work]]
 	- [[Midea]]
 
 ## Liens
-- [[301 Customers]]
+- [[Customers MOC]]
 - 

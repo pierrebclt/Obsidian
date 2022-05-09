@@ -1,4 +1,4 @@
-backlink : [[010 Work]]
+backlink : [[Work MOC]]
 
 # Logique de classement des documents
 

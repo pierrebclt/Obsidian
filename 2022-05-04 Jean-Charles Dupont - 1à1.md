@@ -1,7 +1,6 @@
----
-tags : 1on1/jean-charles_dupont
 
----
+tags :: #1on1/jean-charles_dupont
+
 
 [[Tamturbo]] :
 - [ ] Prix à discuter pour le mgt meeting prochainement #prochain_1à1 

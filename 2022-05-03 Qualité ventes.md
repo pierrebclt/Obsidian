@@ -1,4 +1,4 @@
-backlink : [[Internal Meetings]]
+tags :: #meeting/qualite_ventes
 
 # Suivi
 Mettre ici le lien vers la prochaine réunion

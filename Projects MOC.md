@@ -1,8 +1,8 @@
-backlink : [[010 Work]]
+backlink : [[Work MOC]]
 TODO
 
 Outils de suivi :
-- [[Copil projets - réunions]]
+- [[Copil projets - liens]]
 - [[Sciforma]]
 
 Liste des projets :

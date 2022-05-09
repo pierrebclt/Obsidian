@@ -1,71 +1,36 @@
-Backlink : [[000 HOME]]
+[[+Home]]
+
+# Obsidian
+Nous allons expliquer dans ce fichier comment saisir les informations
+
+## Réunions 
+- C'est un fichier de daté (de type log)
+- Dans le daily, saisir un lien vers une réunion à créer 
+	- Ex: 10h00 : [[2022-05-05 Réunion JCI supply chain TEST]]
+- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle réunion il s'agit :
+	- Ex : tags :: #meeting/jci/supply_chain
+	- C'est tout, dans *JCI* on met le tag pour retrouver toutes ces réunions et voilà 
+- S'il y a un compte-rendu, on vient le rajouter dedans et dans le log du daily on référence cette réunion
+
+## 1on1
+- Comme pour les *réunions*
+- Tag de type #1on1/jean-charles_dupont 
+
+
+## Log d'informations
+### Saisie des informations
+- **Attachment :** on saisit le *tag de la personne*, *attach*, le *type d'attachment (ex:#pdf)*, et d'autres tags si besoin de donner plus de sens
+	- Ex :  #jean-charles_dupont attach #pdf #SiebAndMeyer #Drive #presentation : [[SIEB&MEYER_Presentation_04_2022.pdf]]
+- **Email :** Idem que pour **Attachment** sauf qu'on indique *email* et qu'il n'y a pas de type de PJ
+
+### Important
+- Si le contenu nécessite plus d'une ligne, ouvrir un fichier spécifique pour détailler le contenu
+
+### Recherche des informations
+Il suffira de faire *line:(#jean-charles_dupont attach pdf)*
+
 
 ---
-
-J'ai expliqué le mode de fonctionnement que j'ai retenu dans [[2022-05-01#Recherche solution synchronisation avec ordinateur]]
-
-# Fichier de type log (daté)
-
-
-### Réunion 
-
-Toutes les options ci-dessous partent du principe qu'on aura un fichier par couple *réunion/date*
-
-
-#### Option 1 - la plus simple 
-
-- Dans le daily, saisir un lien vers une réunion à créer 
-	- Ex: 10h00 : [[2022-05-05 Réunion JCI supply chain TEST]]
-- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle réunion il s'agit :
-	- Ex : tag *meeting/jci/supply_chain*
-	- C'est tout, dans JCI on met le tag pour retrouver toutes ces réunions et voilà 
-
-#### Option 2
-
-- Dans le daily, saisir un lien vers une réunion à créer 
-	- Ex: 10h00 : [[2022-05-05 Réunion JCI supply chain TEST]]
-- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle réunion il s'agit :
-	- Ex : tag *meeting/jci/supply_chain*
-	- Ceci pour qu'avec dataview on puisse le faire figurer dans les réunions JCI/supply chain 
-- Rajouter un backlink vers les réunions génériques :
-	- Ex : backlink : [[JCI - Réunions supply chain]]
-
-#### Option 3
-
-- Dans le daily, saisir un lien vers la réunion générique 
-	- ex : 10h00 : [[JCI - Réunions supply chain]]
-- Ensuite depuis la réunion générique on créé un lien vers la réunion du jour (et en plus on peut l'embded)
-	- ex: - [[2022-05-05 Réunion JCI supply chain TEST]]
-- Pour que la boucle soit bouclée, dans le fichier de réunion créé faire un lien vers la date du jour :
-	- [[2022-05-03]]
-
-
-### Email
-
-tag : *email/ramdane_lateb*
-
-### Email avec attachment
-
-#### Option  - la plus simple 
-
-Dans le daily, saisir un lien vers le fichier où on expliquera la PJ
-	- [[2022-05-06 Frédéric Ponson attach ppt sur Tamturbo]]
-- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle PJ il s'agit :
-	- Ex : tag *attach/frederic_ponson* et un lien vers [[Tamturbo]]
-	- C'est tout, si dans *Frederic Ponson* et *Tamturbo* on a les tags on retrouvera ces infos
-
-### 1on1
-
-Dans le daily, saisir un lien vers le fichier de saisie des infos du 1à1
-	- [[2022-05-06 1à1 avec JDT]]
-- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle PJ il s'agit :
-	- Ex : tag *1on1/jean-charles_dupont*
-	- C'est tout, si dans *Jean-Charles Dupont* on a le tag on accédera facilement aux réunions
-
-
-## Conclusion
-Dans le daily, plus le lien est explicite avec les bons mots clés plus ça sera facile à retrouver 
-
 # Fichier de type MOC
 
 Au travail on va retrouver par exemple :
@@ -158,3 +123,6 @@ Test :
 	https://jamierubin.net/blog-series/practically-paperless-with-obsidian/
 
 
+# Solutions écartées
+
+[[Obsidian - solutions écartées]]

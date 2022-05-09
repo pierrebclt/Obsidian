@@ -1,4 +1,5 @@
-backlink : [[Internal Meetings]]
+[[Internal Meetings MOC]]
+tags :: #meeting/equipe 
 
 # Actions
 ## Actions demandées
@@ -7,6 +8,3 @@ backlink : [[Internal Meetings]]
 - [ ] Avis si dans le MMR besoin de faire une section business dev?
 	[[Feedback MMR.msg]]
 
-
-
-# Follow-up

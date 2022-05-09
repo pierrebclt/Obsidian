@@ -1,3 +1,5 @@
+[[+Home]]
+
 ## 100 Relations
 
 Famille :
@@ -55,12 +57,15 @@ Idées business :
 - [[Electronique]]
 
 ### 800 Programmation
+
+Principaux :
 - [[Flask]]
 - [[Git]]
 - [[Jupyterlab]]
 - [[Python]]
 - [[Virtualenv]]
 
+Autre :
 - [[Compression pdf]]
 
 ### 900 Books

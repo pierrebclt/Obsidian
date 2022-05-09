@@ -1,10 +1,6 @@
-backlink : [[Internal Meetings]]
-
-TODO
+tags :: #meeting/rfq 
 
 # Notes
-## 02 Mai 2022
-[[2022-05-02]]
 
 ### Dongfang - revue du 02 mai 2022:
 Client : [[Dongfang]]

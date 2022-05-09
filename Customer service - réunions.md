@@ -1,3 +1,6 @@
+[[Internal Meetings MOC]]
+tags :: #meeting/customer_service
+
 Réunions régulières pour le customer service avec [[Stephanie Guibet]] et [[Yanilu Alazard]]
 
 # Actions
@@ -6,9 +9,3 @@ Réunions régulières pour le customer service avec [[Stephanie Guibet]] et [[Y
 - [ ] [[Stephanie Guibet]] doit confirmer si ok pour faire les validations de demandes d'achat dans Teams
 
 #### Actions A demander
-
-# Notes
-
-## Date
-
-Les notes

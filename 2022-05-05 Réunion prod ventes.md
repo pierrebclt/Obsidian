@@ -1,6 +1,4 @@
----
-tags : meeting/prodventes
-date : 2022-05-05
----
+tags :: #meeting/prodventes
+
 
 Voici le contenu 

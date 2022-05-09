@@ -1,5 +1,7 @@
+tags :: #meeting/na_opportunities
 
-## 04 May 2021
+
+### Notes
 
 [[FS-Eliott]] :
 - Mark to contact them

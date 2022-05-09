@@ -1,3 +1,8 @@
+[[Projects MOC]]
+tags :: #MBx
+
+
+
 # Projet MBx
 
 ## Description

@@ -4,20 +4,16 @@
 
 
 # Mai:
-## S18
 
-
-### Sam 07 Mai
-- [ ] [[Impôts]] : [[Loic xx]] et [[Eric Runfola]] doivent me confirmer ce que je dois faire pour [[MTCH]] (dernier email que j’ai envoyé le 18.04)
-- [ ] Attente retour de [[Nadim Superprof]] suite à mon msg du 18.04 par gmail
 
 ## S19
-- [ ] Poser les journée de CET comme indiqué par Celine Amiot
+
 
 ### 09 Mai
 - [ ] Relancer la facture [[Ariane]] par #email 
 - [ ] Vérifier le lancement des broches après la réunion [[2022-05-05 Réunion anticipation des besoins broches]]
 ### 10 Mai
+- [ ] Poser les journée de CET comme indiqué par Celine Amiot
 
 ### 11 Mai
 
@@ -26,11 +22,12 @@
 
 ### 13 Mai
 - [ ] ALAT / Mme Dutrop doit me confirmer si participation à l'ISMB
+- [ ] [[Ramdane Lateb#^220509a]]
 
 ### Samedi 14 Mai
 - [ ] 07 Mai au 23 Mai : inscrire Pierrick pour la 2nde sur PRONOTE comme indiqué dans le mail de Mme Belin du 16 avril
 - [ ] Miguel Laburu a Singapour doit répondre à ma demande linkedin du 19.04
-
+- [ ] Attente retour de [[Nadim Superprof]] suite à mon msg du 18.04 par gmail
 ## S20
 - [ ] Suivi actions [[Leybold]]
 

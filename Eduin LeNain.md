@@ -1,4 +1,5 @@
-TODO
+[[Equipe MOC]]
+tags :: #eduin_lenain
 
 ## Actions
 #### Actions en cours
