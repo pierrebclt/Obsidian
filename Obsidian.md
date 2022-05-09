@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 Backlink : [[000 HOME]]
 
 ---
@@ -66,6 +67,41 @@ Dans le daily, saisir un lien vers le fichier de saisie des infos du 1à1
 ## Conclusion
 Dans le daily, plus le lien est explicite avec les bons mots clés plus ça sera facile à retrouver 
 
+=======
+[[+Home]]
+
+# Obsidian
+Nous allons expliquer dans ce fichier comment saisir les informations
+
+## Réunions 
+- C'est un fichier de daté (de type log)
+- Dans le daily, saisir un lien vers une réunion à créer 
+	- Ex: 10h00 : [[2022-05-05 Réunion JCI supply chain TEST]]
+- Ensuite dans le fichier créé indiquer un tag pour expliquer de quelle réunion il s'agit :
+	- Ex : tags :: #meeting/jci/supply_chain
+	- C'est tout, dans *JCI* on met le tag pour retrouver toutes ces réunions et voilà 
+- S'il y a un compte-rendu, on vient le rajouter dedans et dans le log du daily on référence cette réunion
+
+## 1on1
+- Comme pour les *réunions*
+- Tag de type #1on1/jean-charles_dupont 
+
+
+## Log d'informations
+### Saisie des informations
+- **Attachment :** on saisit le *tag de la personne*, *attach*, le *type d'attachment (ex:#pdf)*, et d'autres tags si besoin de donner plus de sens
+	- Ex :  #jean-charles_dupont attach #pdf #SiebAndMeyer #Drive #presentation : [[SIEB&MEYER_Presentation_04_2022.pdf]]
+- **Email :** Idem que pour **Attachment** sauf qu'on indique *email* et qu'il n'y a pas de type de PJ
+
+### Important
+- Si le contenu nécessite plus d'une ligne, ouvrir un fichier spécifique pour détailler le contenu
+
+### Recherche des informations
+Il suffira de faire *line:(#jean-charles_dupont attach pdf)*
+
+
+---
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 # Fichier de type MOC
 
 Au travail on va retrouver par exemple :
@@ -158,3 +194,9 @@ Test :
 	https://jamierubin.net/blog-series/practically-paperless-with-obsidian/
 
 
+<<<<<<< HEAD
+=======
+# Solutions écartées
+
+[[Obsidian - solutions écartées]]
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541

@@ -1,7 +1,18 @@
+<<<<<<< HEAD
 # 2022-05-05 Copil chez Ariane
 
 ## Synthèse
 
+=======
+tags :: #meeting/ariane
+
+## Synthèse
+
+#### Compte rendu d'antoine
+[[CRR - COPIL n°5 SKF-MM_AGS thématique machines tournantes 05_05_2022.msg]]
+[[Copil5-Add SKF-MM (Final).pdf]]
+
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 #### Next actions
 - Compression :
 	- [ ] Points de performance suivant slides partagées par Ramdane le 1er avril / #ariane
@@ -10,8 +21,11 @@
 	- [ ] Dynamique du rotor (une fois qu'on a l'info sur les roues) / #skf
 	- [ ] Estimation des coûts / #skf et #ariane
 
+<<<<<<< HEAD
 
 
+=======
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 #### Decisions
 - On a validé que pour la série, les ventes d'Ariane ce ne sera pas de la production mais des royalties pour brander le produit Ariane/SKF
 - Prochaine réunion : dans un mois sur le sujet compression, mais risque de ne rien de nouveau sur l'hydrogène d'ici un mois

@@ -1,6 +1,12 @@
+<<<<<<< HEAD
 ---
 tags : meeting/jci/supply_chain
 ---
+=======
+
+tags :: #meeting/jci/supply_chain
+
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 
 ## A voir
 - [x] JCI est-il pret pour les directs PO à partir du 15 mai ?

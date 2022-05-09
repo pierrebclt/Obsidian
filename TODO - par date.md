@@ -4,6 +4,7 @@
 
 
 # Mai:
+<<<<<<< HEAD
 ## S18
 
 
@@ -13,11 +14,21 @@
 
 ## S19
 - [ ] Poser les journée de CET comme indiqué par Celine Amiot
+=======
+
+
+## S19
+
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 
 ### 09 Mai
 - [ ] Relancer la facture [[Ariane]] par #email 
 - [ ] Vérifier le lancement des broches après la réunion [[2022-05-05 Réunion anticipation des besoins broches]]
 ### 10 Mai
+<<<<<<< HEAD
+=======
+- [ ] Poser les journée de CET comme indiqué par Celine Amiot
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 
 ### 11 Mai
 
@@ -26,11 +37,19 @@
 
 ### 13 Mai
 - [ ] ALAT / Mme Dutrop doit me confirmer si participation à l'ISMB
+<<<<<<< HEAD
+=======
+- [ ] [[Ramdane Lateb#^220509a]]
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 
 ### Samedi 14 Mai
 - [ ] 07 Mai au 23 Mai : inscrire Pierrick pour la 2nde sur PRONOTE comme indiqué dans le mail de Mme Belin du 16 avril
 - [ ] Miguel Laburu a Singapour doit répondre à ma demande linkedin du 19.04
+<<<<<<< HEAD
 
+=======
+- [ ] Attente retour de [[Nadim Superprof]] suite à mon msg du 18.04 par gmail
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 ## S20
 - [ ] Suivi actions [[Leybold]]
 
