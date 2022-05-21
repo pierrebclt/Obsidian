@@ -1,22 +1,40 @@
 [[+Home]]
 
-Liens :
+#### Introduction
 - [[011 Rules]]
 - [[012 Classements]]
-- [[100 General]]
+
+#### General
+- 100 [[General MOC]]
 - [[110 Mes idées]]
 - 120 [[Internal Meetings MOC]]
-- [[200 Business Dev]]
-- 201 [[Applications MOC]]
-- [[300 Commercial]]
+
+#### Business DEv
+- 200 [[Business Dev MOC]]
+- 201 [[Markets MOC]]
+
+#### Commercial
+- 300 [[Commercial MOC]]
 - 301 [[Customers MOC]]
-- [[302 Prospects]]
+- 302 [[Prospects MOC]]
 - [[303 Partners]]
+
+#### Projects
 - 400 [[Projects MOC]]
-- [[500 Technical]]
+
+#### Technical
+- 500 [[Technical MOC]]
+
+#### People
 - 600 [[Equipe MOC]]
 - [[601 Collegues S2M]]
 - [[602 Collegues SKF]]
+- 650 [[HR MOC]]
+
+
+#### Other
 - [[700 Other]]
+- 700 [[IT MOC]]
+
+#### Personnal
 - [[800 Perso at work]]
-- 

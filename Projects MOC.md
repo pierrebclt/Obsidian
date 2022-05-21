@@ -1,9 +1,12 @@
-backlink : [[Work MOC]]
-TODO
+[[+Home]] > [[Work MOC]]
 
-Outils de suivi :
+#### Outils de suivi :
 - [[Copil projets - liens]]
 - [[Sciforma]]
 
-Liste des projets :
+#### Projets internes :
+- [[IFS project]]
+
+#### Liste des projets :
 - [[MBx]]
+- 

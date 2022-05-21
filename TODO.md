@@ -6,8 +6,8 @@ Liens : [[TODO - par date]]
 	- [ ] Regarder indexation des matières (formule BH, Mark Trane, Mark JCI)
 - [ ] Mettre à jour la [[procédure des RFQ]] (Stéphane s'occupe de la [[procédure ETO]]). Voir mes notes dans procédure des RFQ
  ^40439a
-- [ ] Créer une table de synthèse pour chaque client des engagements contractuels de livraison (ex: hanbell = 4months EXW, JCI = 3 month firm, 3 months +/- 20%, etc). A faire dans [[Leadtime agreements]]
- ^6f02ce
+- [x] Créer une table de synthèse pour chaque client des engagements contractuels de livraison (ex: hanbell = 4months EXW, JCI = 3 month firm, 3 months +/- 20%, etc). A faire dans [[Leadtime agreements]]
+ ^6f02ce => Initié ici [[All customers - logistic agreement]]
 - [ ] MMR de ce mois - rajouter mon forecast 1 de manière correcte dans le fichier MMR (avec les valeurs du 12 colonnes Février)
 
 - [ ] Faire Queries en excel pour m'aider à suivre les infos dont j'ai besoin
@@ -21,7 +21,7 @@ Liens : [[TODO - par date]]
 	-   Mettre dans ces dossiers les offres clients en cours (ex: grille de prix ALAT)
 	-   Avoir un historique de l'évolution des prix passés, et avoir un tableau de suivi des implémentations de prix
 
-- [ ] [[202 Opportunities]] : dans mon fichier avoir un moyen simple de savoir si c'est une opportunité amenée par le client ou si c'est du business developement
+- [ ] [[Opportunities MOC]] : dans mon fichier avoir un moyen simple de savoir si c'est une opportunité amenée par le client ou si c'est du business developement
 
 - [ ] Communiquer sur les [[KPI]] à [[Askar Gubaidelin]] et aux chefs de projets
 

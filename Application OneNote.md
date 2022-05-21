@@ -1,6 +1,6 @@
 
 
-Une note:
+<u>Une note :</u>
 -   Un titre
 -   Date de rédaction
 -   Des tags
@@ -12,8 +12,7 @@ On pourrait aussi voir de la même façon toutes les notes pour une date donnée
 
 Possibilité de saisir un compte rendu intelligent et le retrouver dans les notes et les actions dans le teams
 
-Idéalement le système de tag doit être unique et servir pour:
-
+<u>Le système de tag doit permettre de :</u>
 -   Classer les notes
 -   Attacher des actions
 -   Attacher des fichiers

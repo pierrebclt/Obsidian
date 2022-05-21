@@ -1,3 +1,4 @@
+[[Ariane]]
 tags :: #meeting/ariane
 
 ## Synthèse
@@ -13,6 +14,7 @@ tags :: #meeting/ariane
 	- [ ] Définition des roues / #ariane 
 	- [ ] Dynamique du rotor (une fois qu'on a l'info sur les roues) / #skf
 	- [ ] Estimation des coûts / #skf et #ariane
+
 
 #### Decisions
 - On a validé que pour la série, les ventes d'Ariane ce ne sera pas de la production mais des royalties pour brander le produit Ariane/SKF

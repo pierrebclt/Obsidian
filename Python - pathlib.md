@@ -1,3 +1,5 @@
+[[Python]]
+
 [https://pbpython.com/pathlib-intro.html](https://pbpython.com/pathlib-intro.html)
 
 Pathlib cheatsheet :

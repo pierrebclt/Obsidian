@@ -17,5 +17,5 @@
 
 - [[Belles plages de Normandie - article du Figaro]]
 - [[10 plus beaux villages de Normandie - article du figaro]]
-- [[Bruges en Belgique - TODO]]
+- [[Bruges en Belgique]]
 - [[Phoques en baie de somme]]

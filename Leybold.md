@@ -10,4 +10,7 @@ Pour l'instant on ne souhaite pas y aller si le business scope ce n'est qu'une l
 	- J'ai relancé [[Rudi Deschuyfeller]] le 02.05 => attente de l'avancement de sa part
 
 
-# Notes
+## Rappel de l'historique de la part de Frédéric
+- Son email : [[RE_ Leybold - opportunité.msg|lien]]
+
+![[Pasted image 20220519135000.png]]

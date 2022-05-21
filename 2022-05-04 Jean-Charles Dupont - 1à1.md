@@ -1,6 +1,13 @@
+<<<<<<< HEAD
+---
+tags : 1on1/jean-charles_dupont
+
+---
+=======
 
 tags :: #1on1/jean-charles_dupont
 
+>>>>>>> 6e2c131130b13f0c1264ab7f7acf75d52354d541
 
 [[Tamturbo]] :
 - [ ] Prix à discuter pour le mgt meeting prochainement #prochain_1à1 

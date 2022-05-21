@@ -24,6 +24,8 @@ Voir avec Joanna ce qu'elle pense de cette opportunité que l'on pense décliner
 
 ### Ebara - revue du 02 mai 2022:
 
+[[Ebara - opportunité Avril 2022]]
+
 Client : [[Ebara]]
 Application : [[Chillers]]
 Présenté par Askar

@@ -1,4 +1,8 @@
 
+## Résolution de problèmes de conflits
+
+https://komodor.com/learn/how-to-fix-fatal-refusing-to-merge-unrelated-histories-error/
+
 
 ## Utilisation de git
 

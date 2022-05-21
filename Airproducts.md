@@ -1,6 +1,14 @@
-TODO
+[[Customers MOC]]
 
-# Actions
+CLient energy
+Leur principale entité est rotoflow
 
-# Opportunités
-- [[2022-05-02 Réunion RFQ#Airproduct - réunion du 02 mai 2022]]
+#### Meetings
+```dataview
+list from #meeting/airproducts 
+```
+
+## logs
+
+Graphique intéressant partagé par #askar_gubaidelin le #2022-04-28 à Ethan :
+![[Pasted image 20220519131735.png]]

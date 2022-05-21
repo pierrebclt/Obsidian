@@ -1,3 +1,9 @@
+[[+Home]] > [[Knowledge MOC]]
+
+## Liens
+- [[Python - pathlib]]
+- [[Python - dates]]
+
 ## Créer un projet en python
 
 Structure d'un projet "yahtzee":

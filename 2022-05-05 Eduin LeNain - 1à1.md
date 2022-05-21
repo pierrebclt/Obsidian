@@ -1,6 +1,6 @@
----
-tags : 1on1/eduin_lenain
----
+[[Eduin LeNain]]
+
+#1on1/eduin_lenain
 
 # Notes
 

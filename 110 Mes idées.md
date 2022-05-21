@@ -1,3 +1,4 @@
-backlink : [[Work MOC]]
+
+[[Work MOC]]
 
 TODO

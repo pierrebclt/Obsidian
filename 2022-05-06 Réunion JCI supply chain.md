@@ -1,7 +1,6 @@
 
 tags :: #meeting/jci/supply_chain
 
-
 ## A voir
 - [x] JCI est-il pret pour les directs PO à partir du 15 mai ?
 - [x] Erick peut-il nous envoyer forecast + past consumption of last 12 months ?
@@ -16,4 +15,4 @@ tags :: #meeting/jci/supply_chain
 ## Next Actions
 - [ ] Eduin doit présenter le niveau de stock Eolane à JCI #2022-05-13 
 - [ ] Erick to confirm if the change to SKF Magnetic Mechatronics is ready (JCI Wuxi is ready and it will take 1 day) / #2022-05-13
-- [ ] Erick to send the forecast for 12 months #2022-05-13
+- [x] Erick to send the forecast for 12 months #2022-05-13

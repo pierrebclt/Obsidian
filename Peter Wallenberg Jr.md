@@ -1,0 +1,1 @@
+Chairman of Knut and Alice Wallenberg Foundation (owners of FAM)

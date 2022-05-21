@@ -1,6 +1,4 @@
----
-tags : 1on1/christophe_durand
----
+tags :: #1on1/christophe_durand
 
 # Actions
 
